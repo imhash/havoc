@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		Welcome  HashIM :-) !!
+		Welcome  HashIM to New World :-) !!
 </body>
 </html>
