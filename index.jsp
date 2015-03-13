@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Deal of the Day – 50 % off for all items !!
+Deal of the Day – 25 % off for all items !!
 </body>
 </html>
