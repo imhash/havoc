@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		Welcome  HashIM to New World :-) !!
+		Deal of the Day – 25 % off for all items !!
 </body>
 </html>
