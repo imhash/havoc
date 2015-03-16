@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Demo</title>
+<title>Brilio Demo</title>
 </head>
 <body>
 Deal of the day 25% off for all items..
