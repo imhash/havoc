@@ -7,6 +7,6 @@
 <title>Demo</title>
 </head>
 <body>
-Deals of the day 25% off for all items..
+Deal of the day 25% off for all items..
 </body>
 </html>
