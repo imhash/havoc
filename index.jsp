@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Demo</title>
 </head>
 <body>
-Deal of the Day – 50 % off for all items !!
+Deals of the day 25% off for all items..
 </body>
 </html>
