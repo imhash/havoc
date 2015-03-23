@@ -7,6 +7,6 @@
 <title>Brilio Demo</title>
 </head>
 <body>
-Deal of the day 10% off for all items..
+Deal of the day 20% off for all items..
 </body>
 </html>
